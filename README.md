@@ -1,4 +1,4 @@
-# DMD Report On Rent Data
+# Comparing Clustering Methods On Rent Data
 A Comparative report between Clustering-Based Anomaly Detection &amp; K-means Clustering
 
 ![image](https://github.com/stardustyangel/DMD-Report/assets/89689459/13b5e2aa-e86a-4b01-b9b6-784b3727b724)
